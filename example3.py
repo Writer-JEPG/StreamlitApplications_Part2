@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Widgets Basics_ This page was developed by Rami Ibrahim for training purposes")
+st.title("Widgets Basics_ This page was developed by Rami Ibrahim for training purposes :-)")
 st.markdown("---")
 
 # ────────────────────────────────────────────────────────
